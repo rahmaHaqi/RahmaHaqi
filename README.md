@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Rahma Haqi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Rahma Haqi </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=1B0EF7&background=F525FF00&width=435&lines=Web+Scraper+++%2F+Web+Developer;+And+Blockchaine+Enthousiast" alt="Typing SVG" /></a>
