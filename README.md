@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Rahma Haqi </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=1B0EF7&background=F525FF00&width=435&lines=Web+Scraper+++%2F+Web+Developer;+And+Blockchaine+Enthousiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=1B0EF7&background=F525FF00&width=435&lines=Data+scientist+++%2F+Web+Developer;+And+Data+Engineer+Enthousiast" alt="Typing SVG" /></a>
 </p>
 
 
@@ -110,7 +110,7 @@
 
 <li>
 <a href="mailto:haqi.ensa@uhp.ac.ma" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  MuLIAICHI-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  haqirahma2023@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
