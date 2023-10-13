@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Mustapha Liaichi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Rahma Haqi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=1B0EF7&background=F525FF00&width=435&lines=Web+Scraper+++%2F+Web+Developer;+And+Blockchaine+Enthousiast" alt="Typing SVG" /></a>
@@ -17,9 +17,8 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Currently learning Blockchaine by Self
-- Check Out My Blog [link](https://it-lounge.hashnode.dev/)
+- A passionate  data scienctist
+- Currently learning DRL by Self
 
 <br><br>
 
@@ -102,23 +101,15 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/liaichi-mustapha-a12b79242/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  MuLIAICHI-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/rahma-haqi-72886521a/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  RahmaHaqi -%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="https://twitter.com/liaichi_m" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  MuLIAICHI-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:mustaphaliaichi@gmail.com" target="_blank">
+<a href="mailto:haqi.ensa@uhp.ac.ma" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  MuLIAICHI-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
